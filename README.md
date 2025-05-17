@@ -1,7 +1,7 @@
-# Rape-Senpai
+# tang-Sugar
 
-唐唐唐唐先輩
+唐唐先輩
 
-新概念 Homo 遊戲，2024/11/14 更新至原專案最新版本
+超甜 遊戲，114/5/14
 
-https://tang.tang.gitbub.io
+https://tiaotiao0823.github.io/tang.tang.github.io/
